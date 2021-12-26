@@ -83,7 +83,7 @@ export const Overview = () => {
           <h5>Restart</h5>
           <p>
             You may want to restart the server if it is getting laggy
-            or you manually made changes.
+            or you manually made changes to server files.
           </p>
         </div>
         <div className="col-md-4">
